@@ -1,2 +1,2 @@
 # finalily.github.io
-NOFUN
+NON
